@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: adamyodinsky/sampleapp
+  repository: ghcr.io/adamyodinsky/sampleapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart version.
   tag: ""
